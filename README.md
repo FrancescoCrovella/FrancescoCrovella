@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Francesco
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m a Data Science enthusiast
