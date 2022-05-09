@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Francesco
-- 👀 I’m a Data Science enthusiast
+- 👀 I’m a Data enthusiast
